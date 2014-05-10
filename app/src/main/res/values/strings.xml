@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">诸佛菩萨圣诞</string>
+    <string name="binput">输入名称，选择公历日期</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="del_click">点击删除记录</string>
+    <string name="del_ask">是否确认删除当前记录?</string>
+    <string name="birthday_summary">家亲眷属生辰忌日</string>
+    <string name="format">"公历:yyyy年MM月dd日"</string>
+    <string name="del">删除</string>
+    <string name="calendar">日历</string>
+    <string name="birthday">生辰忌日</string>
+    <string name="yin">农:</string>
+    <string name="yang">公:</string>
+    <string name="setting">设置</string>
+
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="day">
+        <item name="android:textSize">14dp</item>
+    </style>
+    <style name="fo">
+        <item name="android:textSize">10dp</item>
+    </style>
+
+    <color name="木">#ff00af00</color>
+    <color name="火">#ffd9b530</color>
+    <color name="土">#ffafaf00</color>
+    <color name="金">#ffcdcdcd</color>
+    <color name="水">#ff505050</color>
+    <color name="bg">#ffeaca95</color>
+</resources>
